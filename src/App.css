@@ -1,0 +1,24 @@
+body {
+    background-color: #ccc;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+.pointer {
+    cursor: pointer;
+    color: rgb(52, 52, 229);
+}
+
+.chat-msg {
+    background: rgb(233, 222, 222);
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.chat-msg1 {
+    background: rgb(114, 138, 236);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: #fff;
+}
